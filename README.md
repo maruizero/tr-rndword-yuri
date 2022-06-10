@@ -1,1 +1,1 @@
-# tr-rndword-yuri
+# RndWord-Yuri
